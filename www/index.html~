@@ -28,7 +28,7 @@
     </head>
 	<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
 	<link href="http://code.google.com/apis/maps/documentation/javascript/examples/default.css" rel="stylesheet" type="text/css" />
-	<script type="text/javascript" src="js/googlemap.js"></script>
+	<script type="text/javascript" href="js/googlemap.js"></script>
     <body>
         <div class="app">
 
